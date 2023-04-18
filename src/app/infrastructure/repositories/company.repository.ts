@@ -1,7 +1,8 @@
 import { HttpClient, HttpHeaders, HttpParams } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
-import { environment } from 'src/environments/environment';
+import { Observable, of } from 'rxjs';
+import { Company } from 'src/app/domain/entities/company.entity';
+import companies from '../../../assets/data/companies.json';
 
 @Injectable({
   providedIn: 'root'
@@ -10,10 +11,10 @@ export class CompanyRepository {
 
   constructor(private readonly httpClient: HttpClient) { }
 
-  public getCompanies(): Observable<any[]> {
+  public getCompanies(): Observable<Company[]> {
     const httpOptions = this.getHttpOptions();
 
-    return this.httpClient.get<any[]>(`${environment.apiBaseUrl}/Company`, httpOptions);
+    return of(companies as Company[]);
   }
 
   public getHttpOptions(contentType?: string) {

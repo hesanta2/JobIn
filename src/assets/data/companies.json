@@ -1,0 +1,4572 @@
+[
+  {
+    "id": 7222763218053239000,
+    "name": "AARON FORMACIÓN Y CONSULTORÍA",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763548765721000,
+        "title": "Analyste Fonctionnel",
+        "role": null,
+        "range": null,
+        "salary": "30 mil € - 32 mil €",
+        "salaryMax": 32000,
+        "salaryMin": 30000
+      },
+      {
+        "id": 7222763548765721000,
+        "title": "Project Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "36 mil € - 39 mil €",
+        "salaryMax": 39000,
+        "salaryMin": 36000
+      },
+      {
+        "id": 7222763548765721000,
+        "title": "Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "36 mil € - 39 mil €",
+        "salaryMax": 39000,
+        "salaryMin": 36000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "ADECCO",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764068456764000,
+        "title": "Mozo De Almacen",
+        "role": null,
+        "range": null,
+        "salary": "15.050 €",
+        "salaryMax": 15050,
+        "salaryMin": 15050
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Steward",
+        "role": null,
+        "range": null,
+        "salary": "16.179 €",
+        "salaryMax": 16179,
+        "salaryMin": 16179
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Mozo De Almacen",
+        "role": null,
+        "range": null,
+        "salary": "17.329 €",
+        "salaryMax": 17329,
+        "salaryMin": 17329
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Intendente",
+        "role": null,
+        "range": null,
+        "salary": "18.491 €",
+        "salaryMax": 18491,
+        "salaryMin": 18491
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Recruiter",
+        "role": null,
+        "range": null,
+        "salary": "18.807 €",
+        "salaryMax": 18807,
+        "salaryMin": 18807
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Mozo De Almacen",
+        "role": null,
+        "range": null,
+        "salary": "18.850 €",
+        "salaryMax": 18850,
+        "salaryMin": 18850
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Consultor",
+        "role": null,
+        "range": null,
+        "salary": "18.993 €",
+        "salaryMax": 18993,
+        "salaryMin": 18993
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Recepcionista Bilíngue",
+        "role": null,
+        "range": null,
+        "salary": "20.026 €",
+        "salaryMax": 20026,
+        "salaryMin": 20026
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Auxiliar Administrativo",
+        "role": null,
+        "range": null,
+        "salary": "20.348 €",
+        "salaryMax": 20348,
+        "salaryMin": 20348
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Electricista",
+        "role": null,
+        "range": null,
+        "salary": "20.357 €",
+        "salaryMax": 20357,
+        "salaryMin": 20357
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Administrativo",
+        "role": null,
+        "range": null,
+        "salary": "20.929 €",
+        "salaryMax": 20929,
+        "salaryMin": 20929
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Técnico De Selección",
+        "role": null,
+        "range": null,
+        "salary": "21.000 €",
+        "salaryMax": 21000,
+        "salaryMin": 21000
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Recepcionista",
+        "role": null,
+        "range": null,
+        "salary": "21.407 €",
+        "salaryMax": 21407,
+        "salaryMin": 21407
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Marketing",
+        "role": null,
+        "range": null,
+        "salary": "23.113 €",
+        "salaryMax": 23113,
+        "salaryMin": 23113
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Peón",
+        "role": null,
+        "range": null,
+        "salary": "23.113 €",
+        "salaryMax": 23113,
+        "salaryMin": 23113
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Generalista De Recursos Humanos (RRHH)",
+        "role": null,
+        "range": null,
+        "salary": "23.204 €",
+        "salaryMax": 23204,
+        "salaryMin": 23204
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Comercial",
+        "role": null,
+        "range": null,
+        "salary": "24.234 €",
+        "salaryMax": 24234,
+        "salaryMin": 24234
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Auxiliar De Mantenimiento",
+        "role": null,
+        "range": null,
+        "salary": "24.819 €",
+        "salaryMax": 24819,
+        "salaryMin": 24819
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "Generalista de Recursos Humanos",
+        "role": null,
+        "range": null,
+        "salary": "25.221 €",
+        "salaryMax": 25221,
+        "salaryMin": 25221
+      },
+      {
+        "id": 7222764068456764000,
+        "title": "CONTABLE",
+        "role": null,
+        "range": null,
+        "salary": "25.596 €",
+        "salaryMax": 25596,
+        "salaryMin": 25596
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Alcorce Telecomunicaciones",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764394874279000,
+        "title": "Ingeniero Preventa",
+        "role": null,
+        "range": null,
+        "salary": "24 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222764394874279000,
+        "title": "Financial Controller",
+        "role": null,
+        "range": null,
+        "salary": "24 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222764394874279000,
+        "title": "Ingeniero Telecomunicaciones",
+        "role": null,
+        "range": null,
+        "salary": "24 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222764394874279000,
+        "title": "Analista De Planificacion Commercial",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "25 mil € - 27 mil €",
+        "salaryMax": 27000,
+        "salaryMin": 25000
+      },
+      {
+        "id": 7222764394874279000,
+        "title": "Analista Planificación Comercial",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "26 mil € - 28 mil €",
+        "salaryMax": 28000,
+        "salaryMin": 26000
+      },
+      {
+        "id": 7222764394874279000,
+        "title": "Administrador De Sistemas Linux/Unix",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "26 mil € - 28 mil €",
+        "salaryMax": 28000,
+        "salaryMin": 26000
+      },
+      {
+        "id": 7222764394874279000,
+        "title": "Ingeniero",
+        "role": null,
+        "range": null,
+        "salary": "26 mil € - 28 mil €",
+        "salaryMax": 28000,
+        "salaryMin": 26000
+      },
+      {
+        "id": 7222764394874279000,
+        "title": "Senior DDO",
+        "role": null,
+        "range": "Senior",
+        "salary": "27 mil € - 28 mil €",
+        "salaryMax": 28000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222764394874279000,
+        "title": "Especialista en planificación comercial",
+        "role": null,
+        "range": null,
+        "salary": "27 mil € - 29 mil €",
+        "salaryMax": 29000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222764394874279000,
+        "title": "Consultor Técnico",
+        "role": null,
+        "range": null,
+        "salary": "32 mil € - 34 mil €",
+        "salaryMax": 34000,
+        "salaryMin": 32000
+      },
+      {
+        "id": 7222764394874279000,
+        "title": "Sofware Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "38 mil € - 42 mil €",
+        "salaryMax": 42000,
+        "salaryMin": 38000
+      },
+      {
+        "id": 7222764394874279000,
+        "title": "Software Engineer Networks – SDWAN",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "45 mil € - 49 mil €",
+        "salaryMax": 49000,
+        "salaryMin": 45000
+      },
+      {
+        "id": 7222764394874279000,
+        "title": "Network Presales Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "47 mil € - 51 mil €",
+        "salaryMax": 51000,
+        "salaryMin": 47000
+      },
+      {
+        "id": 7222764394874279000,
+        "title": "Consultor De Redes",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "54 mil € - 59 mil €",
+        "salaryMax": 59000,
+        "salaryMin": 54000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "ALTIA",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763991147353000,
+        "title": "Junior Developer",
+        "role": "SoftwareEngineer",
+        "range": "Junior",
+        "salary": "12 mil € - 13 mil €",
+        "salaryMax": 13000,
+        "salaryMin": 12000
+      },
+      {
+        "id": 7222763991147352000,
+        "title": "Programador Júnior",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "14 mil € - 56 mil €",
+        "salaryMax": 56000,
+        "salaryMin": 14000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Desarrollador De Software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "15 mil € - 17 mil €",
+        "salaryMax": 17000,
+        "salaryMin": 15000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Técnico",
+        "role": null,
+        "range": null,
+        "salary": "16 mil € - 18 mil €",
+        "salaryMax": 18000,
+        "salaryMin": 16000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Operador De Sistemas",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "17 mil € - 18 mil €",
+        "salaryMax": 18000,
+        "salaryMin": 17000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Ingeniero De Software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "19 mil € - 20 mil €",
+        "salaryMax": 20000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Programador Junior",
+        "role": "SoftwareEngineer",
+        "range": "Junior",
+        "salary": "19 mil € - 21 mil €",
+        "salaryMax": 21000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Programador Senior",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "27 mil € - 28 mil €",
+        "salaryMax": 28000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222763991147352000,
+        "title": "Analista Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "27 mil € - 30 mil €",
+        "salaryMax": 30000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Administrador Senior",
+        "role": null,
+        "range": "Senior",
+        "salary": "28 mil € - 30 mil €",
+        "salaryMax": 30000,
+        "salaryMin": 28000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Consultor Senior",
+        "role": null,
+        "range": "Senior",
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Programador JAVA",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "30 mil € - 32 mil €",
+        "salaryMax": 32000,
+        "salaryMin": 30000
+      },
+      {
+        "id": 7222763991147352000,
+        "title": "Programmer Analyst",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "31 mil € - 34 mil €",
+        "salaryMax": 34000,
+        "salaryMin": 31000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Senior Database Administrator (DBA)",
+        "role": "SoftwareArchitect",
+        "range": "Senior",
+        "salary": "33 mil € - 35 mil €",
+        "salaryMax": 35000,
+        "salaryMin": 33000
+      },
+      {
+        "id": 7222763991147352000,
+        "title": "Senior Developer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "33 mil € - 36 mil €",
+        "salaryMax": 36000,
+        "salaryMin": 33000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Database Administrator",
+        "role": null,
+        "range": null,
+        "salary": "34 mil € - 36 mil €",
+        "salaryMax": 36000,
+        "salaryMin": 34000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Jefe de proyectos de TI",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "39 mil € - 42 mil €",
+        "salaryMax": 42000,
+        "salaryMin": 39000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Senior Business Analyst",
+        "role": null,
+        "range": "Senior",
+        "salary": "50 mil € - 55 mil €",
+        "salaryMax": 55000,
+        "salaryMin": 50000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Software Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "50 mil € - 55 mil €",
+        "salaryMax": 55000,
+        "salaryMin": 50000
+      },
+      {
+        "id": 7222763991147353000,
+        "title": "Project Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "54 mil € - 59 mil €",
+        "salaryMax": 59000,
+        "salaryMin": 54000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "ALVEA SOLUCIONES TECNOLOGICAS, S.L.",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763729154347000,
+        "title": "Data Analyst",
+        "role": null,
+        "range": null,
+        "salary": "26 mil € - 28 mil €",
+        "salaryMax": 28000,
+        "salaryMin": 26000
+      },
+      {
+        "id": 7222763729154347000,
+        "title": "Grails Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "27 mil € - 29 mil €",
+        "salaryMax": 29000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222763729154347000,
+        "title": "Desarrollador De Software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222763729154347000,
+        "title": "Digital Analytics Consultant",
+        "role": null,
+        "range": null,
+        "salary": "35 mil € - 37 mil €",
+        "salaryMax": 37000,
+        "salaryMin": 35000
+      },
+      {
+        "id": 7222763729154347000,
+        "title": "Frontend Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "39 mil € - 41 mil €",
+        "salaryMax": 41000,
+        "salaryMin": 39000
+      },
+      {
+        "id": 7222763729154347000,
+        "title": "Front Web Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "49 mil € - 52 mil €",
+        "salaryMax": 52000,
+        "salaryMin": 49000
+      },
+      {
+        "id": 7222763729154347000,
+        "title": "Jefe de proyectos de TI",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "55 mil € - 60 mil €",
+        "salaryMax": 60000,
+        "salaryMin": 55000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Anhela IT",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764021212124000,
+        "title": "Consultor Júnior",
+        "role": null,
+        "range": null,
+        "salary": "15 mil € - 17 mil €",
+        "salaryMax": 17000,
+        "salaryMin": 15000
+      },
+      {
+        "id": 7222764021212124000,
+        "title": "Desarrollador Web",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "34 mil € - 36 mil €",
+        "salaryMax": 36000,
+        "salaryMin": 34000
+      },
+      {
+        "id": 7222764021212124000,
+        "title": "Project Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "46 mil € - 49 mil €",
+        "salaryMax": 49000,
+        "salaryMin": 46000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "ARELANCE",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764455003821000,
+        "title": "IT Recruiter",
+        "role": null,
+        "range": null,
+        "salary": "11 mil € - 12 mil €",
+        "salaryMax": 12000,
+        "salaryMin": 11000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Cobol Coder",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "12 mil € - 13 mil €",
+        "salaryMax": 13000,
+        "salaryMin": 12000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Desarrollador Java",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "14 mil € - 15 mil €",
+        "salaryMax": 15000,
+        "salaryMin": 14000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Recruiter",
+        "role": null,
+        "range": null,
+        "salary": "15 mil € - 16 mil €",
+        "salaryMax": 16000,
+        "salaryMin": 15000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "QA Analyst",
+        "role": "QualityEngineer",
+        "range": null,
+        "salary": "16 mil € - 17 mil €",
+        "salaryMax": 17000,
+        "salaryMin": 16000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Software Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "16 mil € - 24 mil €",
+        "salaryMax": 24000,
+        "salaryMin": 16000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Outfitter",
+        "role": null,
+        "range": null,
+        "salary": "2 mil € - 2 mil €",
+        "salaryMax": 2000,
+        "salaryMin": 2000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Desarrollador De Software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "20 mil € - 21 mil €",
+        "salaryMax": 21000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Técnico de selección de personal de TI",
+        "role": null,
+        "range": null,
+        "salary": "20 mil € - 22 mil €",
+        "salaryMax": 22000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Técnico Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "21 mil € - 23 mil €",
+        "salaryMax": 23000,
+        "salaryMin": 21000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Programador Senior",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "22 mil € - 24 mil €",
+        "salaryMax": 24000,
+        "salaryMin": 22000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Senior Programmer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "23 mil € - 25 mil €",
+        "salaryMax": 25000,
+        "salaryMin": 23000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Administrativo",
+        "role": null,
+        "range": null,
+        "salary": "24 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Maquetador Web",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "25 mil € - 27 mil €",
+        "salaryMax": 27000,
+        "salaryMin": 25000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "UXUI Designer",
+        "role": "UXDesigner",
+        "range": null,
+        "salary": "25 mil € - 27 mil €",
+        "salaryMax": 27000,
+        "salaryMin": 25000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Frontend Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "26 mil € - 28 mil €",
+        "salaryMax": 28000,
+        "salaryMin": 26000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Analista Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "29 mil € - 32 mil €",
+        "salaryMax": 32000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Gerente Comercial",
+        "role": null,
+        "range": null,
+        "salary": "36 mil € - 39 mil €",
+        "salaryMax": 39000,
+        "salaryMin": 36000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "UX Designer",
+        "role": "UXDesigner",
+        "range": null,
+        "salary": "39 mil € - 42 mil €",
+        "salaryMax": 42000,
+        "salaryMin": 39000
+      },
+      {
+        "id": 7222764455003821000,
+        "title": "Generalista de RR HH y calidad",
+        "role": null,
+        "range": null,
+        "salary": "52 mil € - 56 mil €",
+        "salaryMax": 56000,
+        "salaryMin": 52000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Armadillo Amarillo S.L.",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764570967938000,
+        "title": "Junior Web Developer",
+        "role": "SoftwareEngineer",
+        "range": "Junior",
+        "salary": "17 mil € - 19 mil €",
+        "salaryMax": 19000,
+        "salaryMin": 17000
+      },
+      {
+        "id": 7222764570967938000,
+        "title": "Diseñador Ux/Ui",
+        "role": null,
+        "range": null,
+        "salary": "27 mil € - 29 mil €",
+        "salaryMax": 29000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222764570967938000,
+        "title": "Digital Marketing Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "49 mil € - 53 mil €",
+        "salaryMax": 53000,
+        "salaryMin": 49000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Aubay",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764227370554000,
+        "title": "Administrativo",
+        "role": null,
+        "range": null,
+        "salary": "13 mil € - 15 mil €",
+        "salaryMax": 15000,
+        "salaryMin": 13000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Computer Programmer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "17 mil € - 18 mil €",
+        "salaryMax": 18000,
+        "salaryMin": 17000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Técnico de selección de personal de TI",
+        "role": null,
+        "range": null,
+        "salary": "17 mil € - 19 mil €",
+        "salaryMax": 19000,
+        "salaryMin": 17000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Programador Júnior",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "18 mil € - 20 mil €",
+        "salaryMax": 20000,
+        "salaryMin": 18000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "tecnico sistemas",
+        "role": null,
+        "range": null,
+        "salary": "21 mil € - 23 mil €",
+        "salaryMax": 23000,
+        "salaryMin": 21000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Vendedor Comercial",
+        "role": null,
+        "range": null,
+        "salary": "25 mil € - 28 mil €",
+        "salaryMax": 28000,
+        "salaryMin": 25000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Web Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "32 mil € - 35 mil €",
+        "salaryMax": 35000,
+        "salaryMin": 32000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Analyst",
+        "role": null,
+        "range": null,
+        "salary": "34 mil € - 36 mil €",
+        "salaryMax": 36000,
+        "salaryMin": 34000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Devops Engineer",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "36 mil € - 39 mil €",
+        "salaryMax": 39000,
+        "salaryMin": 36000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Administrador De Sistemas Senior",
+        "role": "DevOpsEngineer",
+        "range": "Senior",
+        "salary": "36 mil € - 39 mil €",
+        "salaryMax": 39000,
+        "salaryMin": 36000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Programador Web",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "37 mil € - 40 mil €",
+        "salaryMax": 40000,
+        "salaryMin": 37000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Analista Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "37.197 €",
+        "salaryMax": 37197,
+        "salaryMin": 37197
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Consultant",
+        "role": null,
+        "range": null,
+        "salary": "40 mil € - 48 mil €",
+        "salaryMax": 48000,
+        "salaryMin": 40000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Programmer Analyst",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "42 mil € - 46 mil €",
+        "salaryMax": 46000,
+        "salaryMin": 42000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Product Owner",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "43 mil € - 66 mil €",
+        "salaryMax": 66000,
+        "salaryMin": 43000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Senior UI Designer",
+        "role": "UXDesigner",
+        "range": "Senior",
+        "salary": "45 mil € - 49 mil €",
+        "salaryMax": 49000,
+        "salaryMin": 45000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Arquitecto De Sistemas",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "50 mil € - 62 mil €",
+        "salaryMax": 62000,
+        "salaryMin": 50000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Jefe De Proyecto",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "52.101 €",
+        "salaryMax": 52101,
+        "salaryMin": 52101
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "IT Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "59 mil € - 65 mil €",
+        "salaryMax": 65000,
+        "salaryMin": 59000
+      },
+      {
+        "id": 7222764227370554000,
+        "title": "Director Comercial",
+        "role": null,
+        "range": null,
+        "salary": "87 mil € - 93 mil €",
+        "salaryMax": 93000,
+        "salaryMin": 87000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "BOYCOR",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764416349115000,
+        "title": "Maquetador Web",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "22 mil € - 24 mil €",
+        "salaryMax": 24000,
+        "salaryMin": 22000
+      },
+      {
+        "id": 7222764416349115000,
+        "title": "Full Stack Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "36 mil € - 40 mil €",
+        "salaryMax": 40000,
+        "salaryMin": 36000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "BRN BASIC SOLUTIONS S.L.",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764274615195000,
+        "title": "Monitor",
+        "role": null,
+        "range": null,
+        "salary": "11 mil € - 13 mil €",
+        "salaryMax": 13000,
+        "salaryMin": 11000
+      },
+      {
+        "id": 7222764274615195000,
+        "title": "Club Host",
+        "role": null,
+        "range": null,
+        "salary": "12 mil € - 14 mil €",
+        "salaryMax": 14000,
+        "salaryMin": 12000
+      },
+      {
+        "id": 7222764274615195000,
+        "title": "Host",
+        "role": null,
+        "range": null,
+        "salary": "13 mil € - 14 mil €",
+        "salaryMax": 14000,
+        "salaryMin": 13000
+      },
+      {
+        "id": 7222764274615195000,
+        "title": "Personal Trainer",
+        "role": null,
+        "range": null,
+        "salary": "14 mil € - 15 mil €",
+        "salaryMax": 15000,
+        "salaryMin": 14000
+      },
+      {
+        "id": 7222764274615195000,
+        "title": "Host",
+        "role": null,
+        "range": null,
+        "salary": "16 mil € - 17 mil €",
+        "salaryMax": 17000,
+        "salaryMin": 16000
+      },
+      {
+        "id": 7222764274615195000,
+        "title": "Team Leader",
+        "role": "TechnicalLead",
+        "range": null,
+        "salary": "23 mil € - 25 mil €",
+        "salaryMax": 25000,
+        "salaryMin": 23000
+      },
+      {
+        "id": 7222764274615195000,
+        "title": "Fitness Instructor",
+        "role": null,
+        "range": null,
+        "salary": "236 mil € - 255 mil €",
+        "salaryMax": 255000,
+        "salaryMin": 236000
+      },
+      {
+        "id": 7222764274615195000,
+        "title": "Administrative",
+        "role": null,
+        "range": null,
+        "salary": "43 mil € - 47 mil €",
+        "salaryMax": 47000,
+        "salaryMin": 43000
+      },
+      {
+        "id": 7222764274615195000,
+        "title": "Marketing Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "50 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 50000
+      },
+      {
+        "id": 7222764274615195000,
+        "title": "Marketing Communications Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "50 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 50000
+      },
+      {
+        "id": 7222764274615195000,
+        "title": "Entrenador",
+        "role": null,
+        "range": null,
+        "salary": "6 mil € - 6 mil €",
+        "salaryMax": 6000,
+        "salaryMin": 6000
+      },
+      {
+        "id": 7222764274615195000,
+        "title": "Recepcionista",
+        "role": null,
+        "range": null,
+        "salary": "6 mil € - 7 mil €",
+        "salaryMax": 7000,
+        "salaryMin": 6000
+      },
+      {
+        "id": 7222764274615195000,
+        "title": "Director Financiero",
+        "role": null,
+        "range": null,
+        "salary": "84 mil € - 92 mil €",
+        "salaryMax": 92000,
+        "salaryMin": 84000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "CDS, a Hewlett Packard Enterprise Company.",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763441391538000,
+        "title": "BAE I",
+        "role": null,
+        "range": null,
+        "salary": "19 mil € - 20 mil €",
+        "salaryMax": 20000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Comercial Spain & Portugal",
+        "role": null,
+        "range": null,
+        "salary": "19 mil € - 21 mil €",
+        "salaryMax": 21000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Backend Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "19 mil € - 21 mil €",
+        "salaryMax": 21000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Junior Software Developer",
+        "role": "SoftwareEngineer",
+        "range": "Junior",
+        "salary": "20 mil € - 22 mil €",
+        "salaryMax": 22000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Administrador De Sistemas Linux/Unix",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "20 mil € - 22 mil €",
+        "salaryMax": 22000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Programador Júnior",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "20 mil € - 23 mil €",
+        "salaryMax": 23000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Business Applications Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "22.398 €",
+        "salaryMax": 22398,
+        "salaryMin": 22398
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Bussiness Applications Engineer II",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "23 mil € - 25 mil €",
+        "salaryMax": 25000,
+        "salaryMin": 23000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Junior Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": "Junior",
+        "salary": "24 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Business Applications Engineer III",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "24 mil € - 27 mil €",
+        "salaryMax": 27000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Business Application Engineer III",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "25 mil € - 27 mil €",
+        "salaryMax": 27000,
+        "salaryMin": 25000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Business Applications Engineer II",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "25.666 €",
+        "salaryMax": 25666,
+        "salaryMin": 25666
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Applications Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "25.774 €",
+        "salaryMax": 25774,
+        "salaryMin": 25774
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Ingeniero técnico de telecomunicaciones",
+        "role": null,
+        "range": null,
+        "salary": "30 mil € - 32 mil €",
+        "salaryMax": 32000,
+        "salaryMin": 30000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Technical Support Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "31 mil € - 33 mil €",
+        "salaryMax": 33000,
+        "salaryMin": 31000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Solution Architect",
+        "role": "SoftwareArchitect",
+        "range": null,
+        "salary": "36 mil € - 39 mil €",
+        "salaryMax": 39000,
+        "salaryMin": 36000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Analista De Sistemas",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "37 mil € - 40 mil €",
+        "salaryMax": 40000,
+        "salaryMin": 37000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Ingeniero Informático",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "42.000 €",
+        "salaryMax": 42000,
+        "salaryMin": 42000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Service Delivery Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "43 mil € - 46 mil €",
+        "salaryMax": 46000,
+        "salaryMin": 43000
+      },
+      {
+        "id": 7222763441391538000,
+        "title": "Service Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "44 mil € - 48 mil €",
+        "salaryMax": 48000,
+        "salaryMin": 44000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "CECABANK",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763651844936000,
+        "title": "Head of People Transformation and Organisation Change",
+        "role": null,
+        "range": null,
+        "salary": "164 mil € - 179 mil €",
+        "salaryMax": 179000,
+        "salaryMin": 164000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Analista",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "19 mil € - 21 mil €",
+        "salaryMax": 21000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Analista Backoffice",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "22 mil € - 24 mil €",
+        "salaryMax": 24000,
+        "salaryMin": 22000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Back Office",
+        "role": null,
+        "range": null,
+        "salary": "24 mil € - 29 mil €",
+        "salaryMax": 29000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Front Office Consultant",
+        "role": null,
+        "range": null,
+        "salary": "27 mil € - 30 mil €",
+        "salaryMax": 30000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Risk Analyst",
+        "role": null,
+        "range": null,
+        "salary": "33 mil € - 35 mil €",
+        "salaryMax": 35000,
+        "salaryMin": 33000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Senior Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "41 mil € - 43 mil €",
+        "salaryMax": 43000,
+        "salaryMin": 41000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Ingeniero De Redes Y Seguridad",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "42 mil € - 45 mil €",
+        "salaryMax": 45000,
+        "salaryMin": 42000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "AML Analyst",
+        "role": null,
+        "range": null,
+        "salary": "47 mil € - 51 mil €",
+        "salaryMax": 51000,
+        "salaryMin": 47000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Empleado de sistema de apoyo administrativo de mesa de negociación",
+        "role": "TechnicalLead",
+        "range": null,
+        "salary": "48 mil € - 53 mil €",
+        "salaryMax": 53000,
+        "salaryMin": 48000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Técnico de prevención del blanqueo de capitales",
+        "role": null,
+        "range": null,
+        "salary": "50 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 50000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Gestor de incidencias y cuentas",
+        "role": null,
+        "range": null,
+        "salary": "51 mil € - 55 mil €",
+        "salaryMax": 55000,
+        "salaryMin": 51000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Técnico de operaciones financieras",
+        "role": null,
+        "range": null,
+        "salary": "51 mil € - 56 mil €",
+        "salaryMax": 56000,
+        "salaryMin": 51000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Asesor Jurídico",
+        "role": null,
+        "range": null,
+        "salary": "52 mil € - 55 mil €",
+        "salaryMax": 55000,
+        "salaryMin": 52000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Head of Quality",
+        "role": "QualityEngineer",
+        "range": null,
+        "salary": "53 mil € - 57 mil €",
+        "salaryMax": 57000,
+        "salaryMin": 53000
+      },
+      {
+        "id": 7222763651844936000,
+        "title": "Trader",
+        "role": null,
+        "range": null,
+        "salary": "88 mil € - 95 mil €",
+        "salaryMax": 95000,
+        "salaryMin": 88000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "E2K2 Netechnology",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763630370099000,
+        "title": "Programador Júnior",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "21 mil € - 23 mil €",
+        "salaryMax": 23000,
+        "salaryMin": 21000
+      },
+      {
+        "id": 7222763630370099000,
+        "title": "Commercial Trash Driver",
+        "role": null,
+        "range": null,
+        "salary": "24 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 24000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "EXCELTIC",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763480046244000,
+        "title": "Recruiter/Consultant",
+        "role": null,
+        "range": null,
+        "salary": "15 mil € - 17 mil €",
+        "salaryMax": 17000,
+        "salaryMin": 15000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Talent Acquisition Specialist",
+        "role": null,
+        "range": null,
+        "salary": "17 mil € - 19 mil €",
+        "salaryMax": 19000,
+        "salaryMin": 17000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Técnico De Informática",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "19 mil € - 20 mil €",
+        "salaryMax": 20000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Technical Tester",
+        "role": "QualityEngineer",
+        "range": null,
+        "salary": "19 mil € - 33 mil €",
+        "salaryMax": 33000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "QA Tester",
+        "role": "QualityEngineer",
+        "range": null,
+        "salary": "22 mil € - 39 mil €",
+        "salaryMax": 39000,
+        "salaryMin": 22000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Modelador BIM",
+        "role": null,
+        "range": null,
+        "salary": "23 mil € - 25 mil €",
+        "salaryMax": 25000,
+        "salaryMin": 23000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Desarrollador Fullstack",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "23 mil € - 25 mil €",
+        "salaryMax": 25000,
+        "salaryMin": 23000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "24 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Software Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "24.171 €",
+        "salaryMax": 24171,
+        "salaryMin": 24171
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Ingeniero De Sistemas",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "27 mil € - 35 mil €",
+        "salaryMax": 35000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Project Leader",
+        "role": "TechnicalLead",
+        "range": null,
+        "salary": "31 mil € - 33 mil €",
+        "salaryMax": 33000,
+        "salaryMin": 31000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Analista Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "31 mil € - 38 mil €",
+        "salaryMax": 38000,
+        "salaryMin": 31000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "SCADA Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "34 mil € - 37 mil €",
+        "salaryMax": 37000,
+        "salaryMin": 34000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "36.000 €",
+        "salaryMax": 36000,
+        "salaryMin": 36000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Ingeniero Industrial",
+        "role": null,
+        "range": null,
+        "salary": "37 mil € - 47 mil €",
+        "salaryMax": 47000,
+        "salaryMin": 37000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Associate Director",
+        "role": null,
+        "range": null,
+        "salary": "38 mil € - 42 mil €",
+        "salaryMax": 42000,
+        "salaryMin": 38000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Consultor HeadHunter",
+        "role": null,
+        "range": null,
+        "salary": "43 mil € - 47 mil €",
+        "salaryMax": 47000,
+        "salaryMin": 43000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Senior Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "44 mil € - 48 mil €",
+        "salaryMax": 48000,
+        "salaryMin": 44000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Madrid",
+        "role": null,
+        "range": null,
+        "salary": "51 mil € - 56 mil €",
+        "salaryMax": 56000,
+        "salaryMin": 51000
+      },
+      {
+        "id": 7222763480046244000,
+        "title": "Director De Proyectos",
+        "role": null,
+        "range": null,
+        "salary": "82 mil € - 88 mil €",
+        "salaryMax": 88000,
+        "salaryMin": 82000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "EZENTIS",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763286772716000,
+        "title": "Técnico",
+        "role": null,
+        "range": null,
+        "salary": "12 mil € - 12 mil €",
+        "salaryMax": 12000,
+        "salaryMin": 12000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "IT Support Specialist",
+        "role": null,
+        "range": null,
+        "salary": "13 mil € - 14 mil €",
+        "salaryMax": 14000,
+        "salaryMin": 13000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Tecnico alarmas",
+        "role": null,
+        "range": null,
+        "salary": "15 mil € - 16 mil €",
+        "salaryMax": 16000,
+        "salaryMin": 15000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Telecommunications Technician",
+        "role": null,
+        "range": null,
+        "salary": "20 mil € - 22 mil €",
+        "salaryMax": 22000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Desarrollador Web",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "22 mil € - 27 mil €",
+        "salaryMax": 27000,
+        "salaryMin": 22000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Administrador De Redes",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "24 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Full Stack Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "27 mil € - 30 mil €",
+        "salaryMax": 30000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Ingeniero Telecomunicaciones",
+        "role": null,
+        "range": null,
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Desarrrollador Web",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Controller",
+        "role": null,
+        "range": null,
+        "salary": "29 mil € - 32 mil €",
+        "salaryMax": 32000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Programador Senior",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "31 mil € - 47 mil €",
+        "salaryMax": 47000,
+        "salaryMin": 31000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Técnico De Mantenimiento",
+        "role": null,
+        "range": null,
+        "salary": "32 mil € - 34 mil €",
+        "salaryMax": 34000,
+        "salaryMin": 32000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Analista Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "32 mil € - 38 mil €",
+        "salaryMax": 38000,
+        "salaryMin": 32000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Mobile Core Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "40 mil € - 43 mil €",
+        "salaryMax": 43000,
+        "salaryMin": 40000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Jefe de proyectos de TI",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "41 mil € - 44 mil €",
+        "salaryMax": 44000,
+        "salaryMin": 41000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Network Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "41 mil € - 47 mil €",
+        "salaryMax": 47000,
+        "salaryMin": 41000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Ingeniero QA senior",
+        "role": "QualityEngineer",
+        "range": "Senior",
+        "salary": "43 mil € - 46 mil €",
+        "salaryMax": 46000,
+        "salaryMin": 43000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Data Analyst",
+        "role": null,
+        "range": null,
+        "salary": "52 mil € - 56 mil €",
+        "salaryMax": 56000,
+        "salaryMin": 52000
+      },
+      {
+        "id": 7222763286772716000,
+        "title": "Arquitecto funcional",
+        "role": "SoftwareArchitect",
+        "range": null,
+        "salary": "57 mil € - 63 mil €",
+        "salaryMax": 63000,
+        "salaryMin": 57000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Factum IT",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764296090031000,
+        "title": "Security Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "29 mil € - 32 mil €",
+        "salaryMax": 32000,
+        "salaryMin": 29000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Full On-Net",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764111406437000,
+        "title": "Operador De Sistemas Júnior",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "20 mil € - 22 mil €",
+        "salaryMax": 22000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Soporte Técnico",
+        "role": null,
+        "range": null,
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Desarrollador De Software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "QA Engineer",
+        "role": "QualityEngineer",
+        "range": null,
+        "salary": "31 mil € - 36 mil €",
+        "salaryMax": 36000,
+        "salaryMin": 31000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Senior Engineer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "33 mil € - 36 mil €",
+        "salaryMax": 36000,
+        "salaryMin": 33000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "QA Automation Engineer",
+        "role": "QualityEngineer",
+        "range": null,
+        "salary": "34.223 €",
+        "salaryMax": 34223,
+        "salaryMin": 34223
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Data Scientist",
+        "role": null,
+        "range": null,
+        "salary": "35 mil € - 37 mil €",
+        "salaryMax": 37000,
+        "salaryMin": 35000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Devops Engineer",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "36 mil € - 39 mil €",
+        "salaryMax": 39000,
+        "salaryMin": 36000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Quality Engineer",
+        "role": "QualityEngineer",
+        "range": null,
+        "salary": "37 mil € - 39 mil €",
+        "salaryMax": 39000,
+        "salaryMin": 37000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Senior Embedded Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "38 mil € - 42 mil €",
+        "salaryMax": 42000,
+        "salaryMin": 38000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "IOS Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "40 mil € - 44 mil €",
+        "salaryMax": 44000,
+        "salaryMin": 40000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Software Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "42 mil € - 45 mil €",
+        "salaryMax": 45000,
+        "salaryMin": 42000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Senior DevOps Engineer",
+        "role": "DevOpsEngineer",
+        "range": "Senior",
+        "salary": "42 mil € - 46 mil €",
+        "salaryMax": 46000,
+        "salaryMin": 42000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Senior QA Automation Engineer",
+        "role": "QualityEngineer",
+        "range": "Senior",
+        "salary": "45 mil € - 49 mil €",
+        "salaryMax": 49000,
+        "salaryMin": 45000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Python Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "46 mil € - 50 mil €",
+        "salaryMax": 50000,
+        "salaryMin": 46000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Senior Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "48 mil € - 53 mil €",
+        "salaryMax": 53000,
+        "salaryMin": 48000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Ingeniero Informático",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "51 mil € - 55 mil €",
+        "salaryMax": 55000,
+        "salaryMin": 51000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Ingeniero De Software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "57 mil € - 62 mil €",
+        "salaryMax": 62000,
+        "salaryMin": 57000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "ingeniero software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "58 mil € - 63 mil €",
+        "salaryMax": 63000,
+        "salaryMin": 58000
+      },
+      {
+        "id": 7222764111406437000,
+        "title": "Business Development Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "66 mil € - 72 mil €",
+        "salaryMax": 72000,
+        "salaryMin": 66000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Geekshubs",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763900953039000,
+        "title": "Nodejs Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "15 mil € - 16 mil €",
+        "salaryMax": 16000,
+        "salaryMin": 15000
+      },
+      {
+        "id": 7222763900953039000,
+        "title": "Full Stack Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "17 mil € - 51 mil €",
+        "salaryMax": 51000,
+        "salaryMin": 17000
+      },
+      {
+        "id": 7222763900953039000,
+        "title": "Sr Talent Advisor",
+        "role": null,
+        "range": null,
+        "salary": "30 mil € - 32 mil €",
+        "salaryMax": 32000,
+        "salaryMin": 30000
+      },
+      {
+        "id": 7222763900953039000,
+        "title": "Profesor de desarrollado generalista",
+        "role": null,
+        "range": null,
+        "salary": "49 mil € - 53 mil €",
+        "salaryMax": 53000,
+        "salaryMin": 49000
+      },
+      {
+        "id": 7222763900953039000,
+        "title": "FullStack Developer Júnior",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "50 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 50000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "GESEIN",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764356219573000,
+        "title": "Técnico De Informática",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "14 mil € - 15 mil €",
+        "salaryMax": 15000,
+        "salaryMin": 14000
+      },
+      {
+        "id": 7222764356219573000,
+        "title": "Técnico",
+        "role": null,
+        "range": null,
+        "salary": "17 mil € - 19 mil €",
+        "salaryMax": 19000,
+        "salaryMin": 17000
+      },
+      {
+        "id": 7222764356219573000,
+        "title": "Desarrollador Web Java",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "23 mil € - 25 mil €",
+        "salaryMax": 25000,
+        "salaryMin": 23000
+      },
+      {
+        "id": 7222764356219573000,
+        "title": "Técnico De Sistemas",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "47 mil € - 51 mil €",
+        "salaryMax": 51000,
+        "salaryMin": 47000
+      },
+      {
+        "id": 7222764356219573000,
+        "title": "Técnico de sistemas de correo",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "50 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 50000
+      },
+      {
+        "id": 7222764356219573000,
+        "title": "Administrador De Sistemas",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "50 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 50000
+      },
+      {
+        "id": 7222764356219573000,
+        "title": "Consultor técnico y jefe de equipo",
+        "role": null,
+        "range": null,
+        "salary": "50 mil € - 55 mil €",
+        "salaryMax": 55000,
+        "salaryMin": 50000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "GRUPO TRAGSA",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763961082581000,
+        "title": "Administrativo",
+        "role": null,
+        "range": null,
+        "salary": "17.500 €",
+        "salaryMax": 17500,
+        "salaryMin": 17500
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Auxiliar Administrativo",
+        "role": null,
+        "range": null,
+        "salary": "18.000 €",
+        "salaryMax": 18000,
+        "salaryMin": 18000
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Programador Júnior",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "20 mil € - 22 mil €",
+        "salaryMax": 22000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Desarrollador De Software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "20.427 €",
+        "salaryMax": 20427,
+        "salaryMin": 20427
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Veterinario",
+        "role": null,
+        "range": null,
+        "salary": "21 mil € - 309 mil €",
+        "salaryMax": 309000,
+        "salaryMin": 21000
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Técnico",
+        "role": null,
+        "range": null,
+        "salary": "21.000 €",
+        "salaryMax": 21000,
+        "salaryMin": 21000
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Ingeniero técnico agrícola",
+        "role": null,
+        "range": null,
+        "salary": "22.800 €",
+        "salaryMax": 22800,
+        "salaryMin": 22800
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Técnico Medio",
+        "role": null,
+        "range": null,
+        "salary": "23.022 €",
+        "salaryMax": 23022,
+        "salaryMin": 23022
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Ingeniero",
+        "role": null,
+        "range": null,
+        "salary": "25.000 €",
+        "salaryMax": 25000,
+        "salaryMin": 25000
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Titulado Superior",
+        "role": null,
+        "range": null,
+        "salary": "26.000 €",
+        "salaryMax": 26000,
+        "salaryMin": 26000
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Médico Veterinario",
+        "role": null,
+        "range": null,
+        "salary": "27 mil € - 47 mil €",
+        "salaryMax": 47000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Técnico",
+        "role": null,
+        "range": null,
+        "salary": "27.422 €",
+        "salaryMax": 27422,
+        "salaryMin": 27422
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Ingeniero Forestal",
+        "role": null,
+        "range": null,
+        "salary": "28 mil € - 33 mil €",
+        "salaryMax": 33000,
+        "salaryMin": 28000
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Técnico Superior",
+        "role": null,
+        "range": null,
+        "salary": "28.514 €",
+        "salaryMax": 28514,
+        "salaryMin": 28514
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Arquitecto",
+        "role": "SoftwareArchitect",
+        "range": null,
+        "salary": "30.000 €",
+        "salaryMax": 30000,
+        "salaryMin": 30000
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Analista Programador Java",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "30.799 €",
+        "salaryMax": 30799,
+        "salaryMin": 30799
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Analista Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "32.000 €",
+        "salaryMax": 32000,
+        "salaryMin": 32000
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Analista",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "35.290 €",
+        "salaryMax": 35290,
+        "salaryMin": 35290
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "35.501 €",
+        "salaryMax": 35501,
+        "salaryMin": 35501
+      },
+      {
+        "id": 7222763961082581000,
+        "title": "Jefe De Obra",
+        "role": null,
+        "range": null,
+        "salary": "48.971 €",
+        "salaryMax": 48971,
+        "salaryMin": 48971
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "INVOIN",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763832233562000,
+        "title": "Técnico de software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "19 mil € - 21 mil €",
+        "salaryMax": 21000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763832233562000,
+        "title": "Frontend Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "31 mil € - 34 mil €",
+        "salaryMax": 34000,
+        "salaryMin": 31000
+      },
+      {
+        "id": 7222763832233562000,
+        "title": "Desarrollador Java",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "40 mil € - 43 mil €",
+        "salaryMax": 43000,
+        "salaryMin": 40000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "KEAPPS",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763419916702000,
+        "title": "Software Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "13 mil € - 15 mil €",
+        "salaryMax": 15000,
+        "salaryMin": 13000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Helpdesk",
+        "role": null,
+        "range": null,
+        "salary": "16 mil € - 17 mil €",
+        "salaryMax": 17000,
+        "salaryMin": 16000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "IT Helpdesk Specialist",
+        "role": null,
+        "range": null,
+        "salary": "16 mil € - 18 mil €",
+        "salaryMax": 18000,
+        "salaryMin": 16000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "18 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 18000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "IT Recruiter",
+        "role": null,
+        "range": null,
+        "salary": "19 mil € - 21 mil €",
+        "salaryMax": 21000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Full Stack Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "24 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Desarrollador Web Full Stack",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "24 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Vendedor Comercial",
+        "role": null,
+        "range": null,
+        "salary": "24 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Consultor De Seguridad",
+        "role": null,
+        "range": null,
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Consultor Salesforce",
+        "role": null,
+        "range": null,
+        "salary": "32 mil € - 35 mil €",
+        "salaryMax": 35000,
+        "salaryMin": 32000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Analista Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "33.118 €",
+        "salaryMax": 33118,
+        "salaryMin": 33118
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Jefe De Proyecto",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "37 mil € - 39 mil €",
+        "salaryMax": 39000,
+        "salaryMin": 37000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Líder Técnico",
+        "role": null,
+        "range": null,
+        "salary": "37 mil € - 39 mil €",
+        "salaryMax": 39000,
+        "salaryMin": 37000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Senior Java Developer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "37 mil € - 40 mil €",
+        "salaryMax": 40000,
+        "salaryMin": 37000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Frontend Architect",
+        "role": "SoftwareArchitect",
+        "range": null,
+        "salary": "37 mil € - 40 mil €",
+        "salaryMax": 40000,
+        "salaryMin": 37000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Database Administrator",
+        "role": null,
+        "range": null,
+        "salary": "41 mil € - 45 mil €",
+        "salaryMax": 45000,
+        "salaryMin": 41000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Devops",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "43 mil € - 46 mil €",
+        "salaryMax": 46000,
+        "salaryMin": 43000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Project Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "47 mil € - 50 mil €",
+        "salaryMax": 50000,
+        "salaryMin": 47000
+      },
+      {
+        "id": 7222763419916702000,
+        "title": "Senior Full Stack Developer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "48 mil € - 53 mil €",
+        "salaryMax": 53000,
+        "salaryMin": 48000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "KRELL CONSULTING & TRAINING",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764089931601000,
+        "title": "Front End",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "14 mil € - 15 mil €",
+        "salaryMax": 15000,
+        "salaryMin": 14000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "SAP Mm Consultant",
+        "role": null,
+        "range": null,
+        "salary": "15 mil € - 17 mil €",
+        "salaryMax": 17000,
+        "salaryMin": 15000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "Web Content Editor",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "16 mil € - 17 mil €",
+        "salaryMax": 17000,
+        "salaryMin": 16000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "Programador JAVA",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "17 mil € - 18 mil €",
+        "salaryMax": 18000,
+        "salaryMin": 17000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "Programador Junior",
+        "role": "SoftwareEngineer",
+        "range": "Junior",
+        "salary": "194 mil € - 214 mil €",
+        "salaryMax": 21400,
+        "salaryMin": 19400
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "Analista Funcional",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "20 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "QA Tester",
+        "role": "QualityEngineer",
+        "range": null,
+        "salary": "21 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 21000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "Full Stack Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "22 mil € - 24 mil €",
+        "salaryMax": 24000,
+        "salaryMin": 22000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "Desarrollador iOS jr",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "24 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "UI/UX Designer",
+        "role": "UXDesigner",
+        "range": null,
+        "salary": "30 mil € - 32 mil €",
+        "salaryMax": 32000,
+        "salaryMin": 30000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "ingniero de sistemas",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "31 mil € - 33 mil €",
+        "salaryMax": 33000,
+        "salaryMin": 31000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "Programmer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "31 mil € - 33 mil €",
+        "salaryMax": 33000,
+        "salaryMin": 31000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "Consultor",
+        "role": null,
+        "range": null,
+        "salary": "31 mil € - 34 mil €",
+        "salaryMax": 34000,
+        "salaryMin": 31000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "32.070 €",
+        "salaryMax": 32070,
+        "salaryMin": 32070
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "UX-UI Designer",
+        "role": "UXDesigner",
+        "range": null,
+        "salary": "33 mil € - 37 mil €",
+        "salaryMax": 37000,
+        "salaryMin": 33000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "Senior Java Developer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "47 mil € - 51 mil €",
+        "salaryMax": 51000,
+        "salaryMin": 47000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "Chief Executive Officer (CEO)",
+        "role": null,
+        "range": null,
+        "salary": "48 mil € - 52 mil €",
+        "salaryMax": 52000,
+        "salaryMin": 48000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "Analista Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "50 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 50000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "Técnico De RRHH",
+        "role": null,
+        "range": null,
+        "salary": "50 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 50000
+      },
+      {
+        "id": 7222764089931601000,
+        "title": "IT Project Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "54 mil € - 59 mil €",
+        "salaryMax": 59000,
+        "salaryMin": 54000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "MINSAIT (Indra Soluciones TI)",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764334744737000,
+        "title": "Junior Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": "Junior",
+        "salary": "23.056 €",
+        "salaryMax": 23056,
+        "salaryMin": 23056
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Ingeniero Junior",
+        "role": null,
+        "range": "Junior",
+        "salary": "24.728 €",
+        "salaryMax": 24728,
+        "salaryMin": 24728
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "24.956 €",
+        "salaryMax": 24956,
+        "salaryMin": 24956
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Desarrollador De Software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "25.000 €",
+        "salaryMax": 25000,
+        "salaryMin": 25000
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Junior Engineer",
+        "role": "SoftwareEngineer",
+        "range": "Junior",
+        "salary": "25.039 €",
+        "salaryMax": 25039,
+        "salaryMin": 25039
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Ingeniero De Software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "26.604 €",
+        "salaryMax": 26604,
+        "salaryMin": 26604
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "26.887 €",
+        "salaryMax": 26887,
+        "salaryMin": 26887
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Software Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "27.065 €",
+        "salaryMax": 27065,
+        "salaryMin": 27065
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Junior Consultant",
+        "role": null,
+        "range": "Junior",
+        "salary": "27.268 €",
+        "salaryMax": 27268,
+        "salaryMin": 27268
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Analista",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "27.855 €",
+        "salaryMax": 27855,
+        "salaryMin": 27855
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Systems Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "28.963 €",
+        "salaryMax": 28963,
+        "salaryMin": 28963
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Consultant",
+        "role": null,
+        "range": null,
+        "salary": "30.283 €",
+        "salaryMax": 30283,
+        "salaryMin": 30283
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Consultor",
+        "role": null,
+        "range": null,
+        "salary": "30.640 €",
+        "salaryMax": 30640,
+        "salaryMin": 30640
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Ingeniero",
+        "role": null,
+        "range": null,
+        "salary": "31.301 €",
+        "salaryMax": 31301,
+        "salaryMin": 31301
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Analista Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "31.959 €",
+        "salaryMax": 31959,
+        "salaryMin": 31959
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Ingeniero De Sistemas",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "33.083 €",
+        "salaryMax": 33083,
+        "salaryMin": 33083
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Senior Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "36.657 €",
+        "salaryMax": 36657,
+        "salaryMin": 36657
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Senior Engineer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "38.384 €",
+        "salaryMax": 38384,
+        "salaryMin": 38384
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Senior Consultant",
+        "role": null,
+        "range": "Senior",
+        "salary": "43.281 €",
+        "salaryMax": 43281,
+        "salaryMin": 43281
+      },
+      {
+        "id": 7222764334744737000,
+        "title": "Project Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "48.000 €",
+        "salaryMax": 48000,
+        "salaryMin": 48000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "NEORIS",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763819348660000,
+        "title": "Ingeniero",
+        "role": null,
+        "range": null,
+        "salary": "12 mil € - 42 mil €",
+        "salaryMax": 42000,
+        "salaryMin": 12000
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Analyst",
+        "role": null,
+        "range": null,
+        "salary": "22.936 €",
+        "salaryMax": 22936,
+        "salaryMin": 22936
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Desarrollador De Software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "23 mil € - 27 mil €",
+        "salaryMax": 27000,
+        "salaryMin": 23000
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Java Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "23.000 €",
+        "salaryMax": 23000,
+        "salaryMin": 23000
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "24 mil € - 38 mil €",
+        "salaryMax": 38000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Analista Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "26.000 €",
+        "salaryMax": 26000,
+        "salaryMin": 26000
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Talent Acquisition",
+        "role": null,
+        "range": null,
+        "salary": "27 mil € - 30 mil €",
+        "salaryMax": 30000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Big Data Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "27 mil € - 51 mil €",
+        "salaryMax": 51000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Analista",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "27.441 €",
+        "salaryMax": 27441,
+        "salaryMin": 27441
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Data Analyst",
+        "role": null,
+        "range": null,
+        "salary": "28 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 28000
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Programador PL/SQL",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "29 mil € - 55 mil €",
+        "salaryMax": 55000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Software Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "30 mil € - 34 mil €",
+        "salaryMax": 34000,
+        "salaryMin": 30000
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Business Consultant",
+        "role": null,
+        "range": null,
+        "salary": "33.370 €",
+        "salaryMax": 33370,
+        "salaryMin": 33370
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Consultant",
+        "role": null,
+        "range": null,
+        "salary": "35.722 €",
+        "salaryMax": 35722,
+        "salaryMin": 35722
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Consultor",
+        "role": null,
+        "range": null,
+        "salary": "38.768 €",
+        "salaryMax": 38768,
+        "salaryMin": 38768
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Experienced Consultant",
+        "role": null,
+        "range": null,
+        "salary": "39.929 €",
+        "salaryMax": 39929,
+        "salaryMin": 39929
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Project Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "41.492 €",
+        "salaryMax": 41492,
+        "salaryMin": 41492
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Senior Consultant",
+        "role": null,
+        "range": "Senior",
+        "salary": "45.495 €",
+        "salaryMax": 45495,
+        "salaryMin": 45495
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Data Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "48.971 €",
+        "salaryMax": 48971,
+        "salaryMin": 48971
+      },
+      {
+        "id": 7222763819348660000,
+        "title": "Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "77.330 €",
+        "salaryMax": 77330,
+        "salaryMin": 77330
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "NOVABASE – NEOTALENT ESPAÑA.",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764437823952000,
+        "title": "UI Designer",
+        "role": "UXDesigner",
+        "range": null,
+        "salary": "26 mil € - 28 mil €",
+        "salaryMax": 28000,
+        "salaryMin": 26000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Data Scientist",
+        "role": null,
+        "range": null,
+        "salary": "26 mil € - 29 mil €",
+        "salaryMax": 29000,
+        "salaryMin": 26000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Web Designer",
+        "role": "UXDesigner",
+        "range": null,
+        "salary": "27 mil € - 29 mil €",
+        "salaryMax": 29000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Programmer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "28 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 28000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Linux Systems Administrator",
+        "role": null,
+        "range": null,
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Backend Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Software Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "29 mil € - 38 mil €",
+        "salaryMax": 38000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Senior Web Developer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "30 mil € - 33 mil €",
+        "salaryMax": 33000,
+        "salaryMin": 30000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Desarrollador De Software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "31 mil € - 33 mil €",
+        "salaryMax": 33000,
+        "salaryMin": 31000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Systems Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "32 mil € - 34 mil €",
+        "salaryMax": 34000,
+        "salaryMin": 32000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Senior Programmer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "32 mil € - 34 mil €",
+        "salaryMax": 34000,
+        "salaryMin": 32000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Computer Programmer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "34 mil € - 37 mil €",
+        "salaryMax": 37000,
+        "salaryMin": 34000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "37 mil € - 41 mil €",
+        "salaryMax": 41000,
+        "salaryMin": 37000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Analista",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "38 mil € - 41 mil €",
+        "salaryMax": 41000,
+        "salaryMin": 38000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Cloud Engineer",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "44 mil € - 48 mil €",
+        "salaryMax": 48000,
+        "salaryMin": 44000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Consultor de auditoría de administración pública",
+        "role": null,
+        "range": null,
+        "salary": "49 mil € - 53 mil €",
+        "salaryMax": 53000,
+        "salaryMin": 49000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Especialista",
+        "role": null,
+        "range": null,
+        "salary": "50 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 50000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Técnico De Automatización",
+        "role": null,
+        "range": null,
+        "salary": "50 mil € - 55 mil €",
+        "salaryMax": 55000,
+        "salaryMin": 50000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Head of Support",
+        "role": null,
+        "range": null,
+        "salary": "68 mil € - 74 mil €",
+        "salaryMax": 74000,
+        "salaryMin": 68000
+      },
+      {
+        "id": 7222764437823952000,
+        "title": "Ingeniero De Proyectos",
+        "role": null,
+        "range": null,
+        "salary": "69 mil € - 74 mil €",
+        "salaryMax": 74000,
+        "salaryMin": 69000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Optimissa, Capital Markets Consulting",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764132881274000,
+        "title": "BPO",
+        "role": null,
+        "range": null,
+        "salary": "13 mil € - 16 mil €",
+        "salaryMax": 16000,
+        "salaryMin": 13000
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Consultor Júnior",
+        "role": null,
+        "range": null,
+        "salary": "15.704 €",
+        "salaryMax": 15704,
+        "salaryMin": 15704
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "QA Tester",
+        "role": "QualityEngineer",
+        "range": null,
+        "salary": "19 mil € - 21 mil €",
+        "salaryMax": 21000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Functional Analyst",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "20 mil € - 22 mil €",
+        "salaryMax": 22000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Soporte Técnico IT",
+        "role": null,
+        "range": null,
+        "salary": "22 mil € - 24 mil €",
+        "salaryMax": 24000,
+        "salaryMin": 22000
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Junior Consultant",
+        "role": null,
+        "range": "Junior",
+        "salary": "23 mil € - 56 mil €",
+        "salaryMax": 56000,
+        "salaryMin": 23000
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Analista Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "24 mil € - 35 mil €",
+        "salaryMax": 35000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Analista Funcional",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "25.487 €",
+        "salaryMax": 25487,
+        "salaryMin": 25487
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Financial Consultant",
+        "role": null,
+        "range": null,
+        "salary": "26 mil € - 28 mil €",
+        "salaryMax": 28000,
+        "salaryMin": 26000
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Consultor Financiero",
+        "role": null,
+        "range": null,
+        "salary": "27 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 27000
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Consultor",
+        "role": null,
+        "range": null,
+        "salary": "28.606 €",
+        "salaryMax": 28606,
+        "salaryMin": 28606
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Consultant",
+        "role": null,
+        "range": null,
+        "salary": "29.792 €",
+        "salaryMax": 29792,
+        "salaryMin": 29792
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Software Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "30.403 €",
+        "salaryMax": 30403,
+        "salaryMin": 30403
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Analista",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "33 mil € - 44 mil €",
+        "salaryMax": 44000,
+        "salaryMin": 33000
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Senior Java Developer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "35 mil € - 41 mil €",
+        "salaryMax": 41000,
+        "salaryMin": 35000
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Senior Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "35 mil € - 42 mil €",
+        "salaryMax": 42000,
+        "salaryMin": 35000
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Data Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "35.000 €",
+        "salaryMax": 35000,
+        "salaryMin": 35000
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Project Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "42.851 €",
+        "salaryMax": 42851,
+        "salaryMin": 42851
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Senior Consultant",
+        "role": null,
+        "range": "Senior",
+        "salary": "45.979 €",
+        "salaryMax": 45979,
+        "salaryMin": 45979
+      },
+      {
+        "id": 7222764132881274000,
+        "title": "Becario En Prácticas",
+        "role": null,
+        "range": null,
+        "salary": "6 mil € - 9 mil €",
+        "salaryMax": 9000,
+        "salaryMin": 6000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "PSS",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763368377094000,
+        "title": "Project Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "50 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 50000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Randstad Technologies",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764158651078000,
+        "title": "Steward",
+        "role": null,
+        "range": null,
+        "salary": "14.648 €",
+        "salaryMax": 14648,
+        "salaryMin": 14648
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Consultor Júnior",
+        "role": null,
+        "range": null,
+        "salary": "16.747 €",
+        "salaryMax": 16747,
+        "salaryMin": 16747
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Generalista De Recursos Humanos (RRHH)",
+        "role": null,
+        "range": null,
+        "salary": "18.483 €",
+        "salaryMax": 18483,
+        "salaryMin": 18483
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "HR Consultant",
+        "role": null,
+        "range": null,
+        "salary": "19.962 €",
+        "salaryMax": 19962,
+        "salaryMin": 19962
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Consultor IT",
+        "role": null,
+        "range": null,
+        "salary": "20.000 €",
+        "salaryMax": 20000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Consultor",
+        "role": null,
+        "range": null,
+        "salary": "20.510 €",
+        "salaryMax": 20510,
+        "salaryMin": 20510
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Consultor RRHH",
+        "role": null,
+        "range": null,
+        "salary": "21.591 €",
+        "salaryMax": 21591,
+        "salaryMin": 21591
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "IT Recruiter",
+        "role": null,
+        "range": null,
+        "salary": "24.858 €",
+        "salaryMax": 24858,
+        "salaryMin": 24858
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Consultor Senior",
+        "role": null,
+        "range": "Senior",
+        "salary": "24.911 €",
+        "salaryMax": 24911,
+        "salaryMin": 24911
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Talent Acquisition Specialist",
+        "role": null,
+        "range": null,
+        "salary": "25.241 €",
+        "salaryMax": 25241,
+        "salaryMin": 25241
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Consultor Comercial",
+        "role": null,
+        "range": null,
+        "salary": "26.260 €",
+        "salaryMax": 26260,
+        "salaryMin": 26260
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Consultant",
+        "role": null,
+        "range": null,
+        "salary": "28.169 €",
+        "salaryMax": 28169,
+        "salaryMin": 28169
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Software Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "29.986 €",
+        "salaryMax": 29986,
+        "salaryMin": 29986
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Recruiter",
+        "role": null,
+        "range": null,
+        "salary": "29.998 €",
+        "salaryMax": 29998,
+        "salaryMin": 29998
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Executive Consultant",
+        "role": null,
+        "range": null,
+        "salary": "36.283 €",
+        "salaryMax": 36283,
+        "salaryMin": 36283
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "IT Consultant",
+        "role": null,
+        "range": null,
+        "salary": "37.206 €",
+        "salaryMax": 37206,
+        "salaryMin": 37206
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Scrum Master",
+        "role": "ScrumMaster",
+        "range": null,
+        "salary": "41.713 €",
+        "salaryMax": 41713,
+        "salaryMin": 41713
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Process Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "47.318 €",
+        "salaryMax": 47318,
+        "salaryMin": 47318
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Becario",
+        "role": null,
+        "range": null,
+        "salary": "5989 €",
+        "salaryMax": 5989,
+        "salaryMin": 5989
+      },
+      {
+        "id": 7222764158651078000,
+        "title": "Becario En Prácticas",
+        "role": null,
+        "range": null,
+        "salary": "6750 €",
+        "salaryMax": 6750,
+        "salaryMin": 6750
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Saal Digital",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763334017356000,
+        "title": "Digital Marketing Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "17 mil € - 19 mil €",
+        "salaryMax": 19000,
+        "salaryMin": 17000
+      },
+      {
+        "id": 7222763334017356000,
+        "title": "Customer Care Specialist",
+        "role": null,
+        "range": null,
+        "salary": "19 mil € - 21 mil €",
+        "salaryMax": 21000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763334017356000,
+        "title": "Account Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "19 mil € - 21 mil €",
+        "salaryMax": 21000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763334017356000,
+        "title": "Customer Service",
+        "role": null,
+        "range": null,
+        "salary": "19 mil € - 21 mil €",
+        "salaryMax": 21000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763334017356000,
+        "title": "Support Specialist",
+        "role": null,
+        "range": null,
+        "salary": "19 mil € - 21 mil €",
+        "salaryMax": 21000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763334017356000,
+        "title": "Marketing",
+        "role": null,
+        "range": null,
+        "salary": "23 mil € - 25 mil €",
+        "salaryMax": 25000,
+        "salaryMin": 23000
+      },
+      {
+        "id": 7222763334017356000,
+        "title": "Marketing Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "26 mil € - 28 mil €",
+        "salaryMax": 28000,
+        "salaryMin": 26000
+      },
+      {
+        "id": 7222763334017356000,
+        "title": "QA Manual Tester",
+        "role": "QualityEngineer",
+        "range": null,
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222763334017356000,
+        "title": "Manual QA Tester",
+        "role": "QualityEngineer",
+        "range": null,
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222763334017356000,
+        "title": "Frontend Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "32 mil € - 34 mil €",
+        "salaryMax": 34000,
+        "salaryMin": 32000
+      },
+      {
+        "id": 7222763334017356000,
+        "title": "IOS Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "38 mil € - 41 mil €",
+        "salaryMax": 41000,
+        "salaryMin": 38000
+      },
+      {
+        "id": 7222763334017356000,
+        "title": ".NET Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "38 mil € - 41 mil €",
+        "salaryMax": 41000,
+        "salaryMin": 38000
+      },
+      {
+        "id": 7222763334017356000,
+        "title": "Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "42 mil € - 46 mil €",
+        "salaryMax": 46000,
+        "salaryMin": 42000
+      },
+      {
+        "id": 7222763334017356000,
+        "title": "Backend Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "44 mil € - 47 mil €",
+        "salaryMax": 47000,
+        "salaryMin": 44000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Second Window",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763793578856000,
+        "title": "React Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "24 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 24000
+      },
+      {
+        "id": 7222763793578856000,
+        "title": "Salesforce Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222763793578856000,
+        "title": "Desarrollador De Software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "33 mil € - 36 mil €",
+        "salaryMax": 36000,
+        "salaryMin": 33000
+      },
+      {
+        "id": 7222763793578856000,
+        "title": "Salesforce Analyst",
+        "role": null,
+        "range": null,
+        "salary": "35 mil € - 38 mil €",
+        "salaryMax": 38000,
+        "salaryMin": 35000
+      },
+      {
+        "id": 7222763793578856000,
+        "title": "Data Sciencist",
+        "role": null,
+        "range": null,
+        "salary": "38 mil € - 42 mil €",
+        "salaryMax": 42000,
+        "salaryMin": 38000
+      },
+      {
+        "id": 7222763793578856000,
+        "title": "Desarrollador de Java SISNet",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "49 mil € - 53 mil €",
+        "salaryMax": 53000,
+        "salaryMin": 49000
+      },
+      {
+        "id": 7222763793578856000,
+        "title": "Consultor Senior",
+        "role": null,
+        "range": "Senior",
+        "salary": "58 mil € - 63 mil €",
+        "salaryMax": 63000,
+        "salaryMin": 58000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Smart Human Capital",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764472183690000,
+        "title": "Software Devolper",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222764472183690000,
+        "title": "Business Intelligence Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "50 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 50000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Sogeti España",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763686204674000,
+        "title": "Junior Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": "Junior",
+        "salary": "17.761 €",
+        "salaryMax": 17761,
+        "salaryMin": 17761
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Junior Consultant",
+        "role": null,
+        "range": "Junior",
+        "salary": "18.026 €",
+        "salaryMax": 18026,
+        "salaryMin": 18026
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Consultor Júnior",
+        "role": null,
+        "range": null,
+        "salary": "20.000 €",
+        "salaryMax": 20000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Software Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "20.635 €",
+        "salaryMax": 20635,
+        "salaryMin": 20635
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Desarrollador De Software",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "20.840 €",
+        "salaryMax": 20840,
+        "salaryMin": 20840
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Applications Consultant",
+        "role": null,
+        "range": null,
+        "salary": "20.933 €",
+        "salaryMax": 20933,
+        "salaryMin": 20933
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "21.000 €",
+        "salaryMax": 21000,
+        "salaryMin": 21000
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "SAP Consultant",
+        "role": null,
+        "range": null,
+        "salary": "21.910 €",
+        "salaryMax": 21910,
+        "salaryMin": 21910
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "22.586 €",
+        "salaryMax": 22586,
+        "salaryMin": 22586
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Frontend Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "23.922 €",
+        "salaryMax": 23922,
+        "salaryMin": 23922
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Consultor",
+        "role": null,
+        "range": null,
+        "salary": "25.000 €",
+        "salaryMax": 25000,
+        "salaryMin": 25000
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Business Analyst",
+        "role": null,
+        "range": null,
+        "salary": "25.177 €",
+        "salaryMax": 25177,
+        "salaryMin": 25177
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Consultant",
+        "role": null,
+        "range": null,
+        "salary": "26.000 €",
+        "salaryMax": 26000,
+        "salaryMin": 26000
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Data Scientist",
+        "role": null,
+        "range": null,
+        "salary": "26.208 €",
+        "salaryMax": 26208,
+        "salaryMin": 26208
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Senior Software Engineer",
+        "role": "SoftwareEngineer",
+        "range": "Senior",
+        "salary": "33.000 €",
+        "salaryMax": 33000,
+        "salaryMin": 33000
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Data Engineer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "35.690 €",
+        "salaryMax": 35690,
+        "salaryMin": 35690
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Senior Consultant",
+        "role": null,
+        "range": "Senior",
+        "salary": "40.152 €",
+        "salaryMax": 40152,
+        "salaryMin": 40152
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Project Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "47.083 €",
+        "salaryMax": 47083,
+        "salaryMin": 47083
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "60.822 €",
+        "salaryMax": 60822,
+        "salaryMin": 60822
+      },
+      {
+        "id": 7222763686204674000,
+        "title": "Senior Manager",
+        "role": "ProjectManager",
+        "range": "Senior",
+        "salary": "87.806 €",
+        "salaryMax": 87806,
+        "salaryMin": 87806
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "START PEOPLE SL.",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764042686961000,
+        "title": "Generalista De Recursos Humanos (RRHH)",
+        "role": null,
+        "range": null,
+        "salary": "37 mil € - 40 mil €",
+        "salaryMax": 40000,
+        "salaryMin": 37000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Talent Search People",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764253140358000,
+        "title": "Consultor",
+        "role": null,
+        "range": null,
+        "salary": "14 mil € - 21 mil €",
+        "salaryMax": 21000,
+        "salaryMin": 14000
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Analista Contable Junior",
+        "role": "SoftwareEngineer",
+        "range": "Junior",
+        "salary": "14 mil € - 28 mil €",
+        "salaryMax": 28000,
+        "salaryMin": 14000
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "IT Recruiter",
+        "role": null,
+        "range": null,
+        "salary": "17.326 €",
+        "salaryMax": 17326,
+        "salaryMin": 17326
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "International Recruiter",
+        "role": null,
+        "range": null,
+        "salary": "17.500 €",
+        "salaryMax": 17500,
+        "salaryMin": 17500
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "International Recruitment Specialist",
+        "role": null,
+        "range": null,
+        "salary": "18 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 18000
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Recruiter",
+        "role": null,
+        "range": null,
+        "salary": "18.000 €",
+        "salaryMax": 18000,
+        "salaryMin": 18000
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Recruiter Specialist",
+        "role": null,
+        "range": null,
+        "salary": "18.000 €",
+        "salaryMax": 18000,
+        "salaryMin": 18000
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Recruitment Specialist",
+        "role": null,
+        "range": null,
+        "salary": "18.123 €",
+        "salaryMax": 18123,
+        "salaryMin": 18123
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Talent Acquisition Specialist",
+        "role": null,
+        "range": null,
+        "salary": "18.160 €",
+        "salaryMax": 18160,
+        "salaryMin": 18160
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Account Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "18.875 €",
+        "salaryMax": 18875,
+        "salaryMin": 18875
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Recruitment Consultant",
+        "role": null,
+        "range": null,
+        "salary": "19.305 €",
+        "salaryMax": 19305,
+        "salaryMin": 19305
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Senior Contable",
+        "role": null,
+        "range": "Senior",
+        "salary": "20 mil € - 26 mil €",
+        "salaryMax": 26000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Team Leader",
+        "role": "TechnicalLead",
+        "range": null,
+        "salary": "20 mil € - 29 mil €",
+        "salaryMax": 29000,
+        "salaryMin": 20000
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Key Account Manager",
+        "role": "ProjectManager",
+        "range": null,
+        "salary": "27.010 €",
+        "salaryMax": 27010,
+        "salaryMin": 27010
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Analista BI",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "31 mil € - 46 mil €",
+        "salaryMax": 46000,
+        "salaryMin": 31000
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Jefe De Ventas",
+        "role": null,
+        "range": null,
+        "salary": "31 mil € - 52 mil €",
+        "salaryMax": 52000,
+        "salaryMin": 31000
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Comercial Senior",
+        "role": null,
+        "range": "Senior",
+        "salary": "32 mil € - 34 mil €",
+        "salaryMax": 34000,
+        "salaryMin": 32000
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Senior Account Manager",
+        "role": "ProjectManager",
+        "range": "Senior",
+        "salary": "50 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 50000
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "International Recruiter",
+        "role": null,
+        "range": null,
+        "salary": "6921 €",
+        "salaryMax": 6921,
+        "salaryMin": 6921
+      },
+      {
+        "id": 7222764253140358000,
+        "title": "Gerente De Operaciones",
+        "role": null,
+        "range": null,
+        "salary": "74 mil € - 81 mil €",
+        "salaryMax": 81000,
+        "salaryMin": 74000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Vipirsa",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222764369104475000,
+        "title": "Front End Developer",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "25 mil € - 27 mil €",
+        "salaryMax": 27000,
+        "salaryMin": 25000
+      },
+      {
+        "id": 7222764369104475000,
+        "title": "Analista Programador",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "29 mil € - 32 mil €",
+        "salaryMax": 32000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222764369104475000,
+        "title": "Analista",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "36 mil € - 40 mil €",
+        "salaryMax": 40000,
+        "salaryMin": 36000
+      },
+      {
+        "id": 7222764369104475000,
+        "title": "Ingeniero Informatico",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "42 mil € - 46 mil €",
+        "salaryMax": 46000,
+        "salaryMin": 42000
+      },
+      {
+        "id": 7222764369104475000,
+        "title": "Cloud Engineer",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "43 mil € - 46 mil €",
+        "salaryMax": 46000,
+        "salaryMin": 43000
+      }
+    ]
+  },
+  {
+    "id": 7222763218053239000,
+    "name": "Wairbut S.A",
+    "province": "Madrid",
+    "url": null,
+    "positions": [
+      {
+        "id": 7222763510111015000,
+        "title": "Operador de Explotacion",
+        "role": null,
+        "range": null,
+        "salary": "17 mil € - 19 mil €",
+        "salaryMax": 19000,
+        "salaryMin": 17000
+      },
+      {
+        "id": 7222763510111015000,
+        "title": "IT User Support Specialist",
+        "role": null,
+        "range": null,
+        "salary": "19 mil € - 20 mil €",
+        "salaryMax": 20000,
+        "salaryMin": 19000
+      },
+      {
+        "id": 7222763510111015000,
+        "title": "Sysadmin",
+        "role": "SoftwareArchitect",
+        "range": null,
+        "salary": "21 mil € - 23 mil €",
+        "salaryMax": 23000,
+        "salaryMin": 21000
+      },
+      {
+        "id": 7222763510111015000,
+        "title": "Analista Programador Java",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "29 mil € - 31 mil €",
+        "salaryMax": 31000,
+        "salaryMin": 29000
+      },
+      {
+        "id": 7222763510111015000,
+        "title": "Administrador De Sistemas",
+        "role": "DevOpsEngineer",
+        "range": null,
+        "salary": "34 mil € - 37 mil €",
+        "salaryMax": 37000,
+        "salaryMin": 34000
+      },
+      {
+        "id": 7222763510111015000,
+        "title": "Analista",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "35 mil € - 38 mil €",
+        "salaryMax": 38000,
+        "salaryMin": 35000
+      },
+      {
+        "id": 7222763510111015000,
+        "title": "Técnico Informático",
+        "role": "SoftwareEngineer",
+        "range": null,
+        "salary": "50 mil € - 54 mil €",
+        "salaryMax": 54000,
+        "salaryMin": 50000
+      }
+    ]
+  }
+]
